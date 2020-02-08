@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/vedran/Documents/python/automate_the_boring_stuff_with_python/Chapter 10/trackbackLog.py", line 3, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
