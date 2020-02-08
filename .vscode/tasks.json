@@ -5,7 +5,7 @@
     "tasks": [
         {
             "label": "build",
-            "command": "python3",
+            "command": "python",
             "group": {
                 "kind": "build",
                 "isDefault": true
